@@ -1,0 +1,13 @@
+D:\SS\Projects\FP_new\FP_new\bin\Debug\FP_new.exe.config
+D:\SS\Projects\FP_new\FP_new\bin\Debug\FP_new.exe
+D:\SS\Projects\FP_new\FP_new\bin\Debug\FP_new.pdb
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.Form1.resources
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.Properties.Resources.resources
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.Resource1.resources
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.csproj.GenerateResource.Cache
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.exe
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.pdb
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.Form2.resources
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.csprojResolveAssemblyReference.cache
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.Form3.resources
+D:\SS\Projects\FP_new\FP_new\obj\Debug\FP_new.Resource2.resources
